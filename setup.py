@@ -7,5 +7,5 @@ setup(
     author="Willem Hunt",
     author_email="whunt1@uvm.edu",
     packages=find_packages(),
-    requires=["dotenv", "requests", "pandas"],
+    requires=["requests", "pandas"],
 )
